@@ -1,0 +1,16 @@
+.body {
+  background: #1b3d68;
+  text-align: center;
+  padding: 100px;
+}
+
+.logo {
+  height: 100px;
+  width: auto;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.text {
+  color: white;
+}
